@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1084530152142",
+    "project_id": "gocredii",
+    "storage_bucket": "gocredii.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1084530152142:android:390750505db0b44e1df69f",
+        "android_client_info": {
+          "package_name": "com.gocredii"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1084530152142-p0jqov3rkfcu2invrn3a5iatjrv3e7nh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPPsLMer4x87B5_Hwov3ZQZZwWCn4pA0Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1084530152142-p0jqov3rkfcu2invrn3a5iatjrv3e7nh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
